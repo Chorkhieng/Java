@@ -10,3 +10,6 @@
 # Maven files
 pom.xml
 pom.xml.lock
+
+# iml files
+.iml
