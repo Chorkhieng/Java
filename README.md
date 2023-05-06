@@ -1,6 +1,7 @@
 # Java Codes
 ## Introduction Algorithms and Data Structures in Java  
-This repository contains Java code examples for commonly used data structures. These code examples are part of class assignments on algorithms and data structures in Java.
+### Let's Explore Some Basic Data Structures  
+This repository contains Java code examples for commonly used data structures. These code examples are part of old assignments on algorithms and data structures in Java.
 
 ## Data Structures Covered
 - classes and basic structures of Java Programming language  
